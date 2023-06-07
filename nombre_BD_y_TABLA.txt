@@ -1,0 +1,11 @@
+BASE DE DATOS  = academico
+
+
+create table colores(
+	descripcion varchar(30),
+	R int,
+	G int,
+	B int,
+	color varchar(20)
+);
+
