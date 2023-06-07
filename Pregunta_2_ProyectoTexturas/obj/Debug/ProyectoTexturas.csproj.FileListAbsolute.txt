@@ -1,0 +1,75 @@
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\bin\Debug\Regiones.pdb
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.AssemblyReference.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.SuggestedBindingRedirects.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.GenerateResource.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.csproj.CoreCompileInputs.cache
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.exe
+C:\Users\bal02\source\repos\Regiones\obj\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.csprojResolveAssemblyReference.cache
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\GROW-LAPTOP\Desktop\Regiones\Regiones\obj\Debug\Regiones.csproj.GenerateResource.Cache
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.csprojResolveAssemblyReference.cache
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\obj\Debug\Regiones.csproj.GenerateResource.Cache
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\mscorlib.dll
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\System.Net.Http.dll
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\System.Net.Http.xml
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\es\mscorlib.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\normidna.nlp
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\normnfc.nlp
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\normnfd.nlp
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\normnfkc.nlp
+C:\Users\GROW-LAPTOP\Desktop\2do_examen_324\Regiones\Regiones\bin\Debug\normnfkd.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\Regiones.exe.config
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\mscorlib.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\System.Net.Http.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\System.Net.Http.xml
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\es\mscorlib.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\normidna.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\normnfc.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\normnfd.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\normnfkc.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\bin\Debug\normnfkd.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\ProyectoTexturas.csprojResolveAssemblyReference.cache
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\Regiones.Form1.resources
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\ProyectoTexturas.csproj.GenerateResource.Cache
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Regiones\obj\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\Regiones.exe.config
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\Regiones.exe
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\Regiones.pdb
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\mscorlib.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\System.Net.Http.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\System.Net.Http.xml
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\es\mscorlib.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\normidna.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\normnfc.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\normnfd.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\normnfkc.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\bin\Debug\normnfkd.nlp
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\ProyectoTexturas.csprojResolveAssemblyReference.cache
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\Regiones.Form1.resources
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\Regiones.Properties.Resources.resources
+C:\Users\GROW-LAPTOP\Desktop\Nueva carpeta\Pregunta_2_ProyectoTexturas\obj\Debug\ProyectoTexturas.csproj.GenerateResource.Cache
